@@ -1,7 +1,7 @@
 # Flux Academy Brief to Brand Kit: Workshop Day 1.
 
-Figma Template 1: https://www.figma.com/community/file/1134094203825976207
-Figma Template 2: https://www.figma.com/community/file/1134094203825976207
+- Figma Template 1: https://www.figma.com/community/file/1134094203825976207
+- Figma Template 2: https://www.figma.com/community/file/1134094203825976207
 
 ## Today's Agenda
 
