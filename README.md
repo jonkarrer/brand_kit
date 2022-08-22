@@ -23,7 +23,7 @@ Figma Template 2: https://www.figma.com/community/file/1134094203825976207
   - Worldviews
   - Picture of customer
 
-## Creative interpretation of Brief
+## Creative interpretation using Figma Pages
 
 1. Inspiration Board
 
@@ -34,3 +34,27 @@ Figma Template 2: https://www.figma.com/community/file/1134094203825976207
 
 - create a 3x3 grid of squares. Each square should be a picture from the inspiration board that makes a cohesive identity.
 - Logo, colors, images, layouts, etc can all be a part of the mood board grid.
+
+3. Colors
+
+- Dark, Dark Shade, Accent (dramaticlly different), Light Shade, Light. 5 cohesive colors.
+- color.adobe.com is a good playground of colors.
+
+4. Typography
+
+- Understand font families and designs. Choose ones that work on dark and light backgrounds.
+- google fonts, adobe fonts, youworkforthem, dribble, fontawesome.
+
+5. Logo
+
+- icon and/or typeface.
+- Use 6 keywords to help inspire the design that are "iconic".
+- For the typeface, play around with the name of the company. Write it with space, without space, stacked, dot seperations, all caps, all lower, underlince, mix and match upper lower. etc. Blast options
+- After playing with the typeface, add details and work towards an Icon that matches it. iconfinder.com can help.
+- Always use the keywords to help match the desing choices.
+- After the typeface and icon come together, make multiple sizes of logo. Full, medium, short, small, icon.
+
+6. Brand Kit
+
+- Bring everything together into a brand kit layout.
+- ![Brand Kit in Figma](assets/BrandKit.png)
