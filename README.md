@@ -75,4 +75,26 @@ Figma Template 2: https://www.figma.com/community/file/1134094203825976207
 - Section 5 = Call to action
 - Footer
 
-2.
+2. Wireframe
+
+- Precursor to the design. Simply get all the parts into the section.
+- Is there a headline, a button, subtext, image? What needs to be here?
+- Image grids, customer reviews, faqs, etc. Lots of options out there. Again, not the design.
+- The layout is not the design so stay basic.
+- There are wireframing tools available.
+- ![Wireframe](assets/Wireframe.png)
+
+3. Content
+
+- Use brief and brand kit to apply content to the wireframe.
+- Fill in the pictures, words, colors, etc.
+- ![Content](assets/Content.png)
+
+4. Design
+
+- Everything so far is NOT the design, and maybe not even close.
+- Now it is time to apply design pricicples and techniques
+- Apply a grid layout to design, 12 columns, centers, about 1200px wide in figma. This will be our guide
+- The common cycle of creating variations, picking some, creating variations, picking some, and so on till it looks and feels correct, begins.
+- freepik.com is a good resource for some things.
+- ![Design](assets/Design-Hero.png)
