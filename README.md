@@ -58,3 +58,21 @@ Figma Template 2: https://www.figma.com/community/file/1134094203825976207
 
 - Bring everything together into a brand kit layout.
 - ![Brand Kit in Figma](assets/BrandKit.png)
+
+# Flux Academy Brand Kit to Web Design: Workshop Day 2.
+
+## Convert Brand Kit into Design.
+
+1. Structure
+
+- Layout each section and define the purpose of the section. Think of them as slides for a story/presentation.
+  ![Structure Figma](assets/Structure.png)
+- Make sure to use the brief as the backbone. Make each section a key part of the goals from the brief.
+- Section 1 = Hero (who/ what do you do/ why should i care?)
+- Section 2 = Get them excited (show them what they want!)
+- Section 3 = Why work with us?
+- Seciton 4 = Build trust.
+- Section 5 = Call to action
+- Footer
+
+2.
